@@ -1,0 +1,2578 @@
+[
+  {
+    "category": "Utility",
+    "name": "Abbreviation",
+    "description": "Automatically replaces abbreviations with full sentences before sending the message.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "AlwaysTrust",
+    "description": "Removes 'untrusted domain' and 'suspicious download' popups. Also allows deleting a server without typing its name.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "AntiDeleteMessage",
+    "description": "Automatically resends your messages if someone deletes them. Cache persisted across restarts.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "AntiMoveDeco",
+    "description": "Adds a button to prevent being moved or disconnected from a voice channel.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "AntiNickname",
+    "description": "Automatically resets any nickname forcefully assigned to you in a server. Works even without admin permissions.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "AudioLimiter",
+    "description": "Automatically caps the volume of other users — no more screaming or loud noises that pierce your ears.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "AutoCorrect",
+    "description": "Automatically corrects spelling and grammar before sending. Requires a free Groq API key configured in BloomcordAI.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "AutoReply",
+    "description": "Automatically replies to received messages. Button in the text bar (next to VoiceDictation).",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "AutoResponder",
+    "description": "Automatically reply to DMs using AI to match your writing style.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "AutoUnmute",
+    "description": "Automatically unmutes and undeafens when you are server muted/deafened, if you have permissions",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "Backpack",
+    "description": "Organize chat bar buttons into a backpack. Left-click to use packed buttons, right-click to pack/unpack buttons.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Roles",
+    "name": "BetterRoleContext",
+    "description": "Adds options to copy role color / edit role / view role icon when right clicking roles in the user profile",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "BigFileUpload",
+    "description": "Bypasses Discord's upload limit via GoFile, Catbox, or a custom uploader. Button in the right-click menu or /fileupload",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "BulkFriendRemove",
+    "description": "Delete multiple friends at once.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Voice",
+    "name": "CallTimer",
+    "description": "Add call timers for all users in voice channels and in the connection status.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "CancelFriendRequest",
+    "description": "Cancels a pending friend request by clicking the button again.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "ChannelWallpaper",
+    "description": "Allows for custom backgrounds for every individual channel.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "CrashHandler",
+    "description": "Utility plugin for handling and possibly recovering from crashes without a restart",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "CreateTheme",
+    "description": "Create Theme UI — registered via settings.tsx",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "CursorMacOS",
+    "description": "Replaces Windows SYSTEM cursors with authentic macOS cursors (.cur/.ani). Restores default cursors when disabled.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Voice",
+    "name": "DisableCallIdle",
+    "description": "Disables automatically getting kicked from a DM voice call after 3 minutes and being moved to an AFK voice channel.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "DMBomb",
+    "description": "Sends an aggressive message to ALL server members or a specific role via right click.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "DoubleCall",
+    "description": "Join two voice channels simultaneously with your own account.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "DoubleEmoji",
+    "description": "Keeps the emoji picker open on click and highlights selected emojis with a blue border.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "EncryptedMessage",
+    "description": "Encrypts your messages with 400 unique techniques (0–399). Only those who know the key can decrypt.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "EquicordToolbox",
+    "description": "Adds a button next to the inbox button in the channel header that houses Bloomcord quick actions",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "EventLogs",
+    "description": "Logs: deleted/edited messages, voice, friends, servers.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "ExportDM",
+    "description": "Exports your DMs with messages, images, videos, audio, links, embeds, stickers, reactions in TXT/JSON/CSV/MD/HTML.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "Fake Voice Option",
+    "description": "Apparaissez mute ou sourd tout en écoutant. Par mushzi.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "FakeDM",
+    "description": "Injects fake local messages into a DM. Button in the text bar.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "FakeFriends",
+    "description": "Locally simulates Discord friends and requests. Persistent between reloads.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Emotes",
+    "name": "FakeNitro",
+    "description": "Allows you to send fake emojis/stickers, use nitro themes, and stream in nitro quality",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "FakePerm",
+    "description": "Visually simulates moderation options in the right-click menu. No real action.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "FakeSwitcher",
+    "description": "Right-click → add a user to the switcher. Click in the switcher → your profile takes their appearance locally.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "FixKrisp",
+    "description": "Forces Krisp (Noise Suppression) to be available by patching MediaEngine and eligibility checks.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "FixScreenshare",
+    "description": "Fixes infinite loading and crashes on screenshare after reload (Ctrl+R) by forcing module re-initialization.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "FloodPanel",
+    "description": "Send a flood of messages rapidly in any channel. Load a custom .txt file or use the built-in phrases.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "FollowMe",
+    "description": "Forces a user to follow you in voice channels (if you have permissions). Right-click a user -> Follow Me.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "FollowUser",
+    "description": "Suit un user en vocal. Clic droit → Follow User. Cœur blanc = suivi actif.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "GhostClient",
+    "description": "Discord ghost accounts — left-click to enable/disable, right-click to configure.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "HideMedia",
+    "description": "Hide attachments and embeds for individual messages via hover button",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "IconViewer",
+    "description": "Adds a new tab to settings to preview all icons.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Voice",
+    "name": "IgnoreCalls",
+    "description": "Allows you to ignore calls from specific users or dm groups.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Media",
+    "name": "ImageLink",
+    "description": "Never hide image links in messages, even if it's the only content",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Media",
+    "name": "ImageZoom",
+    "description": "Lets you zoom in to images and gifs. Use scroll wheel to zoom in and shift + scroll wheel to increase lens radius / size",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "Impersonate",
+    "description": "Locally simulates a message sent by any user via the /impersonate command. Only visible to you.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Commands",
+    "name": "InRole",
+    "description": "Know who is in a role with the role context menu or /inrole command (read plugin info!)",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Fun",
+    "name": "KeyboardSounds",
+    "description": "Adds OperaGX, osu! or Mechvibes sound effects when typing on your keyboard.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "LeaveAllServers",
+    "description": "Leaves all selected servers. Accessible via right-click on a server.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "LiveWallpaper",
+    "description": "Global wallpaper for the entire Discord interface (image, gif, video). Compatible with ChannelWallpaper.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "LockGroup",
+    "description": "Lock/unlock groups via the context menu (prevents adding members)",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "LoginWithToken",
+    "description": "Adds a 'Login with Token' button on the Discord login page.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "MassDM",
+    "description": "Sends a message to all your friends with an anti-rate-limit delay.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Servers",
+    "name": "MemberCount",
+    "description": "Shows the number of online members, total members, and users in voice channels on the server.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "MessageCleaner",
+    "description": "Cleans all messages in a channel with smart rate limiting and statistics",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Chat",
+    "name": "MessageLogger",
+    "description": "Temporarily logs deleted and edited messages.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Chat",
+    "name": "MessageLoggerEnhanced",
+    "description": "Improves MessageLogger with edited message history, ghost ping detection and more",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "MultiInstance",
+    "description": "Opens a 2nd Discord (new window or split screen) with another account.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "MuteAllServers",
+    "description": "Right-click a server → mute all servers and mark all as read in one click.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "NightcordAI",
+    "description": "AI Chat (Groq) integrated in Discord. Replaces 'Shop' in the DM panel.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "NightcordHelper",
+    "description": "Main Bloomcord plugin: fixes Discord crashes, adds UI options and manages internal commands.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "NightcordUpdater",
+    "description": "Checks for updates on startup. Green banner only if a newer version exists on GitHub.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "NoNitroUpsell",
+    "description": "Automatically blocks Nitro upsell/gift popups that Discord keeps showing.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "NoUnblockToJump",
+    "description": "Allows you to jump to messages of blocked or ignored users and likely spammers without unblocking them",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "OverlayFix",
+    "description": "Tente de réparer l'overlay en trompant Discord sur le nom du processus.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Friends",
+    "name": "PinDMs",
+    "description": "Allows you to pin private channels to the top of your DM list. To pin/unpin or re-order pins, right click DMs",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "PlatformIndicators",
+    "description": "Adds platform indicators (Desktop, Mobile, Web...) to users",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "PlatformSpoofer",
+    "description": "Spoof what platform or device you're on",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "ImageUtilities",
+    "name": "ReverseImageSearch",
+    "description": "Adds ImageSearch to image context menus",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "RoleColorEverywhere",
+    "description": "Adds the top role color anywhere possible",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "SelfDestruct",
+    "description": "Sends messages that are automatically deleted after a configurable delay. Red timer visible on each message.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "ServerCloner",
+    "description": "Clone an entire server (channels, roles, permissions, icon, emojis, embeds) to a server where you have ADMIN permission.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "SharePerms",
+    "description": "Multi-user permission sharing with interactive UI.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "ShowHiddenChannels",
+    "description": "Show channels that you do not have access to view.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Servers",
+    "name": "ShowHiddenThings",
+    "description": "Displays various hidden & moderator-only things regardless of permissions.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "SilentDelete",
+    "description": "\"Silently\" deletes a message. Bypass message loggers by replacing the message with a placeholder.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "SilentEdit",
+    "description": "\"Silently\" edit a message without showing the edit tag and bypass Vencord's message logger.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "SoundCordPlayer",
+    "description": "Integrated SoundCord player. Client ID is automatically fetched via native Electron process — no account required.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "SpotifyCrack",
+    "description": "Free listen along, no auto-pausing in voice chat, and allows activity to continue playing when idling",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "StealthMode",
+    "description": "Hides all plugin buttons without disabling them. Shortcut: Ctrl+Shift+H.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "StreamProof",
+    "description": "Hides messages, links, images, DMs, but not the screen share/voice grid. Toggle via chat bar button.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "ThemeLibrary",
+    "description": "A library of themes for Vencord.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "TokenImporter",
+    "description": "Import and verify Discord tokens.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "Translate",
+    "description": "Translate messages with Google Translate or DeepL",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "UnlimitedAccounts",
+    "description": "Increases the amount of accounts you can add.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "UserAreaTweaks",
+    "description": "Creates an elegant floating dock for Bloomcord plugins using pure CSS, preventing overlap and crashes.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "UserVoiceShow",
+    "description": "Shows an indicator when a user is in a Voice Channel",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "MentionCacheFix",
+    "name": "ValidUser",
+    "description": "Fix mentions for unknown users showing up as '@unknown-user' (hover over a mention to fix it)",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Media",
+    "name": "ViewIcons",
+    "description": "Makes avatars and banners in user profiles clickable, adds View Icon/Banner entries in the user, server and group channel context menus.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "VoiceChannelSearch",
+    "description": "Search and join any voice channel across all your servers.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "VoiceDictation",
+    "description": "Real-time voice dictation via Groq Whisper (free). API key shared with BloomcordAI.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "VoiceDownload",
+    "description": "Adds a download to voice messages. (Opens a new browser tab)",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Voice",
+    "name": "VoiceMessages",
+    "description": "Allows you to send voice messages like on mobile.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "VoiceRejoin",
+    "description": "Rejoins DM/Server call automatically when restarting Discord.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Voice",
+    "name": "VolumeBooster",
+    "description": "Allows you to set the user and stream volume above the default maximum",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Activity",
+    "name": "WhosWatching",
+    "description": "Hover over the screenshare icon to view what users are watching your stream",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Utility",
+    "name": "WordBomb",
+    "description": "Assistant BombParty/WordBomb avec overlay persistant, IA intégrée et alphabet track.",
+    "isNightcord": true,
+    "isBloomcord": true
+  },
+  {
+    "category": "Customisation",
+    "name": "AltKrispSwitch",
+    "description": "Makes the Noise Suppression Popout switch between None and Krisp instead of Krisp and Standard",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "AlwaysAnimate",
+    "description": "Animates anything that can be animated",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "AutoZipper",
+    "description": "Automatically zips specified file types and folders before uploading to Discord",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "BannersEverywhere",
+    "description": "Displays banners in the member list",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "BetterActivities",
+    "description": "Shows activity icons in the member list and allows showing all activities",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "BetterBlockedUsers",
+    "description": "Allows you to search in blocked users list and makes names selectable in settings.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "BetterCommands",
+    "description": "Enhances the command system with miscellaneous improvements.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Organisation",
+    "name": "BetterFolders",
+    "description": "Shows server folders on dedicated sidebar and adds folder related improvements",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "BetterGifAltText",
+    "description": "Change GIF alt text from simply being 'GIF' to containing the gif tags / filename",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Emotes",
+    "name": "BetterGifPicker",
+    "description": "Makes the gif picker open the favourite category by default",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "BetterInvites",
+    "description": "See invites expiration date, view inviter profile and preview servers before joining by clicking the name",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "BetterPlusReacts",
+    "description": "The amount of plus before :emoji: is the message to add it to",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Roles",
+    "name": "BetterRoleDot",
+    "description": "Copy role colour on RoleDot (accessibility setting) click.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "BetterSettings",
+    "description": "Enhances your settings-menu-opening experience",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "BetterUploadButton",
+    "description": "Upload with a single click, open menu with right click",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "BiggerStreamPreview",
+    "description": "This plugin allows you to enlarge stream previews",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "BlockKeywords",
+    "description": "Blocks messages containing specific user-defined keywords, as if the user sending them was blocked.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Privacy",
+    "name": "BlockKrisp",
+    "description": "Prevent Krisp from loading",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Privacy",
+    "name": "BlurNSFW",
+    "description": "Blur attachments in NSFW channels until hovered",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Shortcuts",
+    "name": "BypassPinPrompt",
+    "description": "Bypass the pin prompt when using the pin functions",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "BypassStatus",
+    "description": "Still get notifications from specific sources when in do not disturb mode.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "ChannelBadges",
+    "description": "Adds badges to channels based on their type",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "ChannelTabs",
+    "description": "Group your commonly visited channels in tabs, like a browser",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "CharacterCounter",
+    "description": "Adds a character counter to the chat input",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "CleanChannelName",
+    "description": "Remove emoji and decoration from channel names.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "CleanerChannelGroups",
+    "description": "Hides all channels in collapsed categories, even if they have unread messages.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Privacy",
+    "name": "ClearURLs",
+    "description": "Automatically removes tracking elements from URLs you send",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "ClickableRoles",
+    "description": "Click on roles in user profiles and the member list to see which members have them.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "ClientSideBlock",
+    "description": "Allows you to locally hide almost all content from any user",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "ClipsEnhancements",
+    "description": "Add more Clip FPS and duration options, custom clip length, RPC tagging and more",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "ColorSighted",
+    "description": "Removes the colorblind-friendly icons from statuses, just like 2015-2017 Discord",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "CommandPalette",
+    "description": "Quickly run actions through a searchable command palette",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Developers",
+    "name": "ConsoleJanitor",
+    "description": "Disables annoying console messages/errors",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Developers",
+    "name": "ConsoleShortcuts",
+    "description": "Adds shorter Aliases for many things on the window. Run `shortcutList` for a list.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "ContentWarning",
+    "description": "Allows you to specify certain trigger words that will be blurred by default.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Emotes",
+    "name": "CopyEmojiMarkdown",
+    "description": "Allows you to copy emojis as formatted string (<:blobcatcozy:1026533070955872337>)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "CopyFileContents",
+    "description": "Adds a button to text file attachments to copy their contents",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "CopyStatusUrls",
+    "description": "Copy the users status url when you right-click it",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Emotes",
+    "name": "CopyStickerLinks",
+    "description": "Adds the ability to copy & open Sticker links",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "CopyUserMention",
+    "description": "Adds a button to copy user's mention on the user context menu, works best with ValidUser.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "CopyUserURLs",
+    "description": "Adds a 'Copy User URL' option to the user context menu.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "CursorBuddy",
+    "description": "Adds a sprite that follows your cursor.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Commands",
+    "name": "CustomCommands",
+    "description": "Allows you to create custom slash commands / tags",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "CustomFolderIcons",
+    "description": "Customize folder icons with any png",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "CustomIdle",
+    "description": "Allows you to set the time before Discord goes idle (or disable auto-idle)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "CustomRPC",
+    "description": "Add a fully customisable Rich Presence (Game status) to your Discord profile",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Customisation",
+    "name": "CustomSounds",
+    "description": "Customize Discord's sounds.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "CustomTimestamps",
+    "description": "Custom timestamps on messages and tooltips",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "CustomUserColors",
+    "description": "Lets you add a custom color to any user, anywhere!",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "Dearrow",
+    "description": "Makes YouTube embed titles and thumbnails less sensationalist, powered by Dearrow",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "Declutter",
+    "description": "Cleans up Discord by removing non-essential UI elements like profile effects, shop tabs, boosts, and more.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "Decor",
+    "description": "Create and use your own custom avatar decorations, or pick your favorite from the presets.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "DisableCameras",
+    "description": "Disables cameras in a call by default",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "DisableDeepLinks",
+    "description": "Disables Discord's stupid deep linking feature which tries to force you to use their Desktop App",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "DiscordDevBanner",
+    "description": "Enables the Discord developer banner, in which displays the build-ID",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "DontRoundMyTimestamps",
+    "description": "Always rounds relative timestamps down, so 7.6y becomes 7y instead of 8y",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Customisation",
+    "name": "DragFavoriteEmotes",
+    "description": "Adds the ability to change the order of your favourite emotes",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "Dragify",
+    "description": "Drop users, channels, or servers into chat to insert mentions or invites.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Fun",
+    "name": "Equissant",
+    "description": "Crossant every specified amount of clicks :trolley:",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Fun",
+    "name": "ExitSounds",
+    "description": "Play soundboard sounds when you disconnect from voice.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Developers",
+    "name": "Experiments",
+    "description": "Enable Access to Experiments & other dev-only features in Discord!",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Emotes",
+    "name": "ExpressionCloner",
+    "description": "Allows you to clone Emotes & Stickers to your own server (right click them)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Developers",
+    "name": "F8Break",
+    "description": "Pause the client when you press F8 with DevTools (+ breakpoints) open.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "FastDeleteChannels",
+    "description": "Adds a trash icon to delete channels",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Emotes",
+    "name": "FavoriteEmojiFirst",
+    "description": "Puts your favorite emoji first in the emoji autocomplete and also has emoji alias.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "FavoriteGifSearch",
+    "description": "Adds a search bar to favorite gifs.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "FavouriteAnything",
+    "description": "Favourite any image, video, or file attachment",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "FileUpload",
+    "description": "Upload images and videos to file hosting services like Zipline and Nest",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "FindReply",
+    "description": "Jumps to the earliest reply to a message in a channel.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "FixCodeblockGap",
+    "description": "Removes the gap between codeblocks and text below it",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "FixFileExtensions",
+    "description": "Fixes file extensions by renaming them to a compatible supported format if possible",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "FixImagesQuality",
+    "description": "Improves quality of images by loading them at their original resolution",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "FontLoader",
+    "description": "Loads any font from Google Fonts",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Roles",
+    "name": "ForceOwnerCrown",
+    "description": "Force the owner crown next to usernames even if the server is large.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "ForwardAnywhere",
+    "description": "If a forward fails send it as a normal message also allows nsfw forwards",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Shortcuts",
+    "name": "FrequentQuickSwitcher",
+    "description": "Rewrites and filters the quick switcher results to be your most frequent channels",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Friends",
+    "name": "FriendCodes",
+    "description": "Generate FriendCodes to easily add friends",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Friends",
+    "name": "FriendInvites",
+    "description": "Create and manage friend invite links via slash commands",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Friends",
+    "name": "FriendshipRanks",
+    "description": "Adds badges showcasing how long you have been friends with a user for",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Friends",
+    "name": "FriendsSince",
+    "description": "Shows when you became friends with someone in the user popout",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Shortcuts",
+    "name": "FriendTags",
+    "description": "Allows you to filter by custom tags in the quick switcher by starting a search with &",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "FullSearchContext",
+    "description": "Makes the message context menu in message search results have all options you'd expect",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Shortcuts",
+    "name": "FullUserInChatbox",
+    "description": "Makes the user mention in the chatbox have more functionalities, like left/right clicking",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "FullVCPFP",
+    "description": "Makes avatars take up the entire vc tile",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "GameActivityToggle",
+    "description": "Adds a button next to the mic and deafen button to toggle game activity.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "Ghosted",
+    "description": "A cute ghost will appear if you don't answer their DMs",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "GifCollections",
+    "description": "Allows you to create collections of gifs.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "GifPaste",
+    "description": "Makes picking a gif in the gif picker insert a link into the chatbox instead of instantly sending it",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "GlobalBadges",
+    "description": "Adds global badges from other client mods",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Commands",
+    "name": "GoogleThat",
+    "description": "Adds a command to send a internet search link",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Emotes",
+    "name": "GreetStickerPicker",
+    "description": "Allows you to use any greet sticker instead of only the random one",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Emotes",
+    "name": "GuildPickerDumper",
+    "description": "Context menu to dump and download a server's emojis and stickers.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "HideChatButtons",
+    "description": "Able to hide the chat buttons",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "HideMessages",
+    "description": "Temporarily hide messages and DMs until you restart.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "HideNativeButtons",
+    "description": "Hides unwanted native Discord buttons (Logs, Help, DevTools, Inbox)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "HideServers",
+    "description": "Allows you to hide servers from the guild list and quick switcher by right clicking them",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "HomeTyping",
+    "description": "Changes the home button to a typing indicator if someone in your dms is typing",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Fun",
+    "name": "HopOn",
+    "description": "Hop on! Opens a configurable URL when a message matches a custom regex in the current channel.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Emotes",
+    "name": "Husk",
+    "description": "Adds Husk button (check settings to change used emoji)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "IdleAutoRestart",
+    "description": "Automatically restarts the client after being idle for a configurable amount of time.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "IgnoreActivities",
+    "description": "Ignore activities from showing up on your status ONLY.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "ILoveSpam",
+    "description": "Do not hide messages from 'likely spammers'",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "ImageFilename",
+    "description": "Display the file name of images & GIFs as a tooltip when hovering over them",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Friends",
+    "name": "ImplicitRelationships",
+    "description": "Shows your implicit relationships in the Friends tab.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Fun",
+    "name": "Ingtoninator",
+    "description": "Suffixes 'ington' to a random word in your message",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "InstantScreenshare",
+    "description": "Instantly screenshare when joining a voice channel.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "InvisibleChat",
+    "description": "Encrypt your Messages in a non-suspicious way!",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "InviteDefaults",
+    "description": "Allows you to edit the default values when creating server invites.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "IrcColors",
+    "description": "Makes username colors in chat unique, like in IRC clients",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "IRememberYou",
+    "description": "Locally saves everyone you've been communicating with (including servers), in case of loss.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Fun",
+    "name": "Jumpscare",
+    "description": "Adds a configurable chance of jumpscaring you whenever you open a channel.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "JumpTo",
+    "description": "Adds context menu options to jump to the start or bottom of a channel/DM.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "KeepCurrentChannel",
+    "description": "Attempt to navigate to the channel you were in before switching accounts or loading Discord.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "KeywordNotify",
+    "description": "Sends a notification if a given message matches certain keywords or regexes",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "LastActive",
+    "description": "A plugin to jump to last active message from yourself or another user in a channel/server.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "LastFMRichPresence",
+    "description": "Little plugin for Last.fm rich presence",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "LoadingQuotes",
+    "description": "Replace Discords loading quotes",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "LoginWithQR",
+    "description": "Allows you to login to another device by scanning a login QR code, just like on mobile!",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "MentionAvatars",
+    "description": "Shows user avatars and role icons inside mentions",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "MessageBurst",
+    "description": "Merges messages sent within a time period with your previous sent message.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "MessageClickActions",
+    "description": "Customize click actions on messages.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "MessageColors",
+    "description": "Displays color codes like #FF0042 inside of messages",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "MessageFetchTimer",
+    "description": "Shows how long it took to fetch messages for the current channel",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "MessageLatency",
+    "description": "Displays an indicator for messages that took ≥n seconds to send",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "MessageLinkEmbeds",
+    "description": "Adds a preview to messages that link another message",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "MessageLinkTooltip",
+    "description": "Adds a tooltip with a message preview when hovering over message links, replies, and forwarded messages.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "MessageNotifier",
+    "description": "Get toasts for when chosen users send a message",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "MessagePeek",
+    "description": "Shows the last message preview and timestamp in the Direct Messages list.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "MessageTranslate",
+    "description": "Auto translate messages to your language with caching, per-channel toggles, and more options.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "MicLoopbackTester",
+    "description": "Adds mic loopback test icon to the user panel",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "MiddleClickTweaks",
+    "description": "Various middle click tweaks, such as with pasting and link opening.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Commands",
+    "name": "MoreCommands",
+    "description": "Adds various fun and useful commands",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Emotes",
+    "name": "MoreQuickReactions",
+    "description": "Improves the quick react buttons in the message context menu.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "MoreStickers",
+    "description": "Adds sticker packs from other social media platforms. (e.g. LINE)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "MoreUserTags",
+    "description": "Adds tags for webhooks and moderative roles (owner, admin, etc.)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Fun",
+    "name": "Moyai",
+    "description": "Plays a 🗿 sound effect whenever a moyai emoji is sent, reacted, or used as a voice effect.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "MusicControls",
+    "description": "Music Controls and Lyrics for multiple services",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Friends",
+    "name": "MutualGroupDMs",
+    "description": "Shows mutual group dms in profiles",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "NeverPausePreviews",
+    "description": "Prevents in-call/PiP previews from pausing even if the client loses focus",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "NewGuildSettings",
+    "description": "Automatically mute new servers and change various other settings upon joining",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Developers",
+    "name": "NoDevtoolsWarning",
+    "description": "Disables the 'HOLD UP' banner in the console.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "NoF1",
+    "description": "Disables F1 help bind.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "NoMaskedUrlPaste",
+    "description": "Pasting a link while having text selected will not paste as masked URL",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "NoMosaic",
+    "description": "Removes Discord image mosaic",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "NoOnboardingDelay",
+    "description": "Skips the slow and annoying onboarding delay",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Notifications",
+    "name": "NoPendingCount",
+    "description": "Removes the ping count of incoming friend requests, message requests, and nitro offers.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "NoProfileThemes",
+    "description": "Completely removes Nitro profile themes from everyone but yourself",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "NoPushToTalk",
+    "description": "Bypasses the push-to-talk requirement for voice activity in channels that enforce it.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "NoReplyMention",
+    "description": "Disables reply pings by default",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "NormalizeMessageLinks",
+    "description": "Strip canary/ptb from message links",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "NoRoleHeaders",
+    "description": "We are all equal!! Removes the role headers in the member list.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Privacy",
+    "name": "NoRPC",
+    "description": "Disables Discord's RPC server.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Emotes",
+    "name": "NoServerEmojis",
+    "description": "Do not show server emojis in the autocomplete menu.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Notifications",
+    "name": "NoSystemBadge",
+    "description": "Disables the taskbar and system tray unread count badge.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "NotificationTitle",
+    "description": "Makes desktop notifications more informative",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Notifications",
+    "name": "NotificationVolume",
+    "description": "Save your ears and set a separate volume for notifications and in-app sounds",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "NoTrack",
+    "description": "Disable Discord's tracking (analytics/'science'), metrics and Sentry crash reporting",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "NoTypingAnimation",
+    "description": "Disables the CPU-intensive typing dots animation",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Notifications",
+    "name": "OnePingPerDM",
+    "description": "If unread messages are sent by a user in DMs multiple times, you'll only receive one audio ping.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "OpenInApp",
+    "description": "Open links in their respective apps instead of your browser",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "OrbolayBridge",
+    "description": "Bridge plugin to connect Orbolay to Discord",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "OverrideForumDefaults",
+    "description": "Allows you to override default forum layout/sort order.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Fun",
+    "name": "PartyMode",
+    "description": "Allows you to use party mode cause the party never ends ✨",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "PauseInvitesForever",
+    "description": "Brings back the option to pause invites indefinitely that stupit Discord removed.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "PermissionFreeWill",
+    "description": "Disables the client-side restrictions for channel permission management.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "PermissionsViewer",
+    "description": "View the permissions a user or channel has, and the roles of a server",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Fun",
+    "name": "PetPet",
+    "description": "Adds a /petpet slash command to create headpet gifs from any image",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "PictureInPicture",
+    "description": "Adds picture in picture to videos (next to the Download button)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "PingNotifications",
+    "description": "Customizable notifications with improved mention formatting",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "PinIcon",
+    "description": "Adds a pin icon to pinned messages",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "PlainFolderIcon",
+    "description": "Dont show the small guild icons in folders",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "PolishWording",
+    "description": "Tweaks your messages to make them look nicer and have better grammar.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "PreviewMessage",
+    "description": "Lets you preview your message before sending it.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "ProfileSets",
+    "description": "Allows you to save and load different profile presets.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "Questify",
+    "description": "Enhance specific Quest features, disable annoyances, or completely remove Quests.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "QuickMention",
+    "description": "Adds a quick mention button to the message actions bar",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "QuickReply",
+    "description": "Reply to (ctrl + up/down) and edit (ctrl + shift + up/down) messages via keybinds",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "Quoter",
+    "description": "Adds the ability to create an inspirational quote image from a message.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Fun",
+    "name": "RandomVoice",
+    "description": "Adds a button near mute to join a random voice channel.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Developers",
+    "name": "ReactErrorDecoder",
+    "description": "Replaces \"Minified React Error\" with the actual error.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "RecentDMSwitcher",
+    "description": "Ctrl+Tab between most recently used DMs (Ctrl+Shift+Tab reverse)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Friends",
+    "name": "RelationshipNotifier",
+    "description": "Notifies you when a friend, group chat, or server removes you.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Customisation",
+    "name": "RemixRevived",
+    "description": "Revives Remix and brings it to Desktop",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "RepeatMessages",
+    "description": "Allows you to repeat messages quickly.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "ReplaceGoogleSearch",
+    "description": "Replaces the Google search with different Engine(s)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "ReplyPingControl",
+    "description": "Control whether to always or never get pinged on message replies, with whitelist and blacklist features",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "ReplyTimestamp",
+    "description": "Shows a timestamp on replied-message previews",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Accessibility",
+    "name": "RevealAllSpoilers",
+    "description": "Reveal all spoilers in a message by Ctrl-clicking a spoiler, or in the chat with Ctrl+Shift-click",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Friends",
+    "name": "ReviewDB",
+    "description": "Review other users (Adds a new settings to profiles)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "RichMagnetLinks",
+    "description": "Renders magnet links like message links",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "RichPresence",
+    "description": "Unified rich presence hub for AudioBookShelf, osu!, stats.fm, Jellyfin, ListenBrainz, and Gensokyo Radio.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Roles",
+    "name": "RoleColorEverywhere",
+    "description": "Adds the top role color anywhere possible",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Customisation",
+    "name": "RPCEditor",
+    "description": "Edit the type and content of any Rich Presence",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "RPCStats",
+    "description": "Displays stats about your activity as an rpc",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Emotes",
+    "name": "SaveFavoriteGIFs",
+    "description": "Export favorited GIF urls",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "ScheduledMessages",
+    "description": "Schedule messages to be sent at a specific time or after a delay.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "ScreenRecorder",
+    "description": "Adds an option to record your screen and upload the recording to the channel",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "SearchFix",
+    "description": "Fixes the annoying \"We dropped the magnifying glass!\" error.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Notifications",
+    "name": "SecretRingToneEnabler",
+    "description": "Always play the secret version of the discord ringtone",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "SekaiStickers",
+    "description": "Sekai Stickers built in discord originally from github.com/TheOriginalAyaka",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "SelfForward",
+    "description": "Adds the current channel to the forward list popup",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "SendTimestamps",
+    "description": "Send timestamps easily via chat box button & text shortcuts.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "ServerInfo",
+    "description": "Allows you to view info about a server",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "ServerListIndicators",
+    "description": "Add online friend count or server count in the server list",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Shortcuts",
+    "name": "ServerSearch",
+    "description": "Navigate your servers better with a quick search button",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "Settings",
+    "description": "Adds Settings UI and debug info",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "ShikiCodeblocks",
+    "description": "Brings vscode-style codeblocks into Discord, powered by Shiki",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "ShowAllMessageButtons",
+    "description": "Always show all message buttons no matter if you are holding the shift key or not.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "ShowBadgesInChat",
+    "description": "Shows the message author's badges beside their name in chat.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Friends",
+    "name": "ShowConnections",
+    "description": "Show connected accounts in user popouts",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "ShowMessageEmbeds",
+    "description": "Adds a context menu option to show embeds for links that don't have one",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "ShowMeYourName",
+    "description": "Display any permutation of custom nicknames, friend nicknames, server nicknames, display names, and usernames in chat.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "ShowResourceChannels",
+    "description": "shows the channels hidden behind the server resources in the channel list",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "ShowSongName",
+    "description": "Shows song name instead of artist for Spotify activity",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "ShowTimeoutDuration",
+    "description": "Shows how much longer a user's timeout will last, either in the timeout icon tooltip or next to it",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "Signature",
+    "description": "Automated fingerprint/end text",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "SilentMessageToggle",
+    "description": "Adds a button to the chat bar to toggle sending a silent message.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "SilentTyping",
+    "description": "Hide that you are typing",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "Snowfall",
+    "description": "Let it snow on Discord",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Fun",
+    "name": "Soggy",
+    "description": "Adds a soggy button to the toolbox",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "SpotifyActivityToggle",
+    "description": "Adds a toggle button for Spotify activity visibility.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "SpotifyShareCommands",
+    "description": "Share your current Spotify track, album or artist via slash command (/track, /album, /artist)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Developers",
+    "name": "StartupTimings",
+    "description": "Adds Startup Timings to the Settings menu",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "StatusPresets",
+    "description": "Allows you to remember your statuses and set them later",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Activity",
+    "name": "SteamStatusSync",
+    "description": "Sync your status to Steam! (Online, Away, Invisible, or Offline.)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "StickerBlocker",
+    "description": "Allows you to block stickers from being displayed.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Emotes",
+    "name": "StickerPaste",
+    "description": "Makes picking a sticker in the sticker picker insert it into the chatbox instead of instantly sending",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Privacy",
+    "name": "StreamerModeOn",
+    "description": "Automatically enables streamer mode when you start streaming in Discord",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "StreamingCodecDisabler",
+    "description": "Disable codecs for streaming of your choice",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "Summaries",
+    "description": "Enables Discord's experimental Summaries feature on every server, displaying AI generated summaries of conversations",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Reactions",
+    "name": "SuperReactionTweaks",
+    "description": "Customize the limit of Super Reactions playing at once, and super react by default",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "TalkInReverse",
+    "description": "Reverses the message content before sending it.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "TextReplace",
+    "description": "Replace text in your messages.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "ThemeAttributes",
+    "description": "Adds data attributes to various elements for theming purposes",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "TidalEmbeds",
+    "description": "Embeds TIDAL songs to make them playable in Discord.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Accessibility",
+    "name": "TiktokTTS",
+    "description": "Adds a context menu option to read out chat messages with the Tiktok TTS voice.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "Timezones",
+    "description": "Shows the local time of users in profiles and message headers",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Customisation",
+    "name": "Title",
+    "description": "Replaces the window title prefix",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "ToastNotifications",
+    "description": "Show a pop-up toast notification, configurable for DMs, group, friends, or guild channels.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "ToggleVideoBind",
+    "description": "Adds a customizable bind to toggle webcam.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "ToneIndicators",
+    "description": "Show tooltips for tone indicators like /srs, /gen, etc. in sent messages.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Notifications",
+    "name": "TypingIndicator",
+    "description": "Adds an indicator if someone is typing on a channel.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "TypingTweaks",
+    "description": "Show avatars and role colours in the typing indicator",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "Unindent",
+    "description": "Trims leading indentation from codeblocks",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "UnitConverter",
+    "description": "Converts metric units to Imperial units and vice versa",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "UniversalMention",
+    "description": "Mention any user, regardless of channel access.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Media",
+    "name": "UnlockedAvatarZoom",
+    "description": "Allows you to zoom in further in the image crop tool when changing your avatar",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "UnreadCountBadge",
+    "description": "Shows unread message count badges on channels in the channel list",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "UnsuppressEmbeds",
+    "description": "Allows you to unsuppress embeds in messages",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "UrlHighlighter",
+    "description": "Highlights URLs in messages that match your patterns.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "UserMessagesPronouns",
+    "description": "Adds pronouns to chat user messages",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "USRBG",
+    "description": "Displays user banners from USRBG, allowing anyone to get a banner without Nitro",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Voice",
+    "name": "VcNarrator",
+    "description": "Announces when users join, leave, or move voice channels via narrator",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "VCPanelSettings",
+    "description": "Control voice settings right from the voice panel",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "ViewRaw",
+    "description": "Copy and view the raw content/data of any message, channel or guild",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "ViewRawVariant",
+    "description": "Copy/View raw content of any message, channel, or guild from the right click menu.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "VoiceButtons",
+    "description": "Quickly DM, mute, or deafen any user right from the voice-call panel.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "VoiceChannelLog",
+    "description": "Logs voice channel activity including joins, leaves, soundboard, mute, camera, screenshare, and more.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Voice",
+    "name": "VoiceChatDoubleClick",
+    "description": "Join voice chats via double click instead of single click",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "VoiceChatUtilities",
+    "description": "This plugin allows you to perform multiple actions on an entire channel (move, mute, disconnect, etc.)",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "VoiceJoinMessages",
+    "description": "Receive client-side ephemeral messages when your friends join voice channels",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Servers",
+    "name": "WaitForSlot",
+    "description": "Automatically join a full voice channel when a slot opens.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Utility",
+    "name": "WebContextMenus",
+    "description": "Re-adds context menus missing in the web version of Discord: Links & Images, Text Area, and more.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Shortcuts",
+    "name": "WebKeybinds",
+    "description": "Re-adds keybinds missing in the web version of Discord: ctrl+t, ctrl+shift+t, ctrl+tab, and more.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Developers",
+    "name": "WebpackTarball",
+    "description": "Converts Discord's webpack sources into a tarball.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "WhitelistedEmojis",
+    "description": "Adds the ability to disable all message emojis except for a whitelisted set.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Reactions",
+    "name": "WhoReacted",
+    "description": "Renders the avatars of users who reacted to a message",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "WigglyText",
+    "description": "Adds a new markdown formatting that makes text wiggly.",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Appearance",
+    "name": "WriteUpperCase",
+    "description": "Changes the first Letter of each Sentence in Message Inputs to Uppercase",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Notifications",
+    "name": "XSOverlay",
+    "description": "Forwards discord notifications to XSOverlay, for easy viewing in VR",
+    "isNightcord": false,
+    "isBloomcord": false
+  },
+  {
+    "category": "Chat",
+    "name": "ZipPreview",
+    "description": "Previews ZIP contents inside file attachments.",
+    "isNightcord": false,
+    "isBloomcord": false
+  }
+]
